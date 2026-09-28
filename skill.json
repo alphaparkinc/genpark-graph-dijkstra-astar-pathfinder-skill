@@ -1,0 +1,9 @@
+{
+  "name": "genpark-graph-dijkstra-astar-pathfinder-skill",
+  "version": "1.0.0",
+  "description": "Graph pathfinding engine implementing Dijkstra's shortest path and A* heuristic routing with priority queues for agent planning.",
+  "category": "Service",
+  "entrypoint": "client.py",
+  "mcp": "mcp_server.py",
+  "author": "GenPark AI"
+}
